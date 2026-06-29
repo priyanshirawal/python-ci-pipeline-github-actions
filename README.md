@@ -17,4 +17,10 @@ Through this project, I practiced:
 - YAML
 - Python
 
-This was an introductory-level CI setup that helped me build a clearer understanding of version control and workflow automation. I plan to continue building more advanced CI/CD implementations as I progress.
+## Conclusion
+
+This repository was created as part of the Datacom Virtual Experience Program on Forage to gain hands-on exposure to GitHub Actions and CI automation.
+
+Although the workflow is intentionally simple, it helped me understand the fundamentals of version control, workflow automation, and continuous integration. It also provided practical experience with Git, GitHub, YAML workflow configuration, and automated pipeline execution.
+
+This project serves as an early learning milestone in my DevOps and cloud journey, forming a foundation for more advanced CI/CD implementations in future projects.
